@@ -1,0 +1,9 @@
+$gmail 1
+$gmail 11
+$facebook 21
+2
+$amazon 22
+1
+$facebook 2
+2
+Stop
